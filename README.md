@@ -31,7 +31,7 @@ The solution enables healthcare stakeholders to:
 
 ### 🏠 Executive Overview Dashboard
 
-![Executive Dashboard] ss_1.png
+![Executive Dashboard] (ss_1.png)
 
 Provides high-level KPIs including:
 
